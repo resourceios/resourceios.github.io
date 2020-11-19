@@ -6,4 +6,4 @@
 - If any developer doesn't like this I can take it down anytime you want
 
 ## ------------Thanks You---------------
-![worm-in-apple](https://resourceios.github.io/ascii-worm-in-apple.png)
+![img-alt](https://resourceios.github.io/ascii-worm-in-apple.png)
